@@ -20,6 +20,21 @@ HTML, CSS, JavaScript, PHP
 
 [Visit Epinozia](https://epinozia.com)
 
+
 ## Screenshots
 
-Screenshots of the website and its interactive features will be added here.
+### Homepage
+![Epinozia Homepage](homepage.png)
+
+### Physics
+![Physics Homepage](physics-home.png)
+
+### Physics Calculators
+![Physics Calculators](physics-calculators.png)
+
+### Finance Learning
+![Finance Learning](finance-learning.png)
+
+### Projectile Motion Calculator
+![Projectile Motion Calculator](projectile-motion.png)
+
